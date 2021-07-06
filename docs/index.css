@@ -1,0 +1,8 @@
+.panel {
+    border: 15px solid green;
+    padding: 50px 0;
+    width: 50%;
+    height: 100px;
+    text-align: center;
+    margin-left: 50%;
+}
